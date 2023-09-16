@@ -59,7 +59,7 @@ const SideBbar = () => {
 				</Link>
 			</div>
 
-			<div className="flex flex-col items-center w-full mt-3 justify-centeri">
+			<div className="flex flex-col items-center w-full mt-3 justify-center">
 				<span className="w-[80%] h-fit border px-3 py-4 border-rose-700 rounded-lg flex flex-col items-center bg-rose-50">
 					Play movie quizes and earn free tickets. 50 people are
 					playing now
